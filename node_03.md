@@ -22,4 +22,4 @@ The moment $c$ touches the absolute zero boundary, the strict type-theoretic con
 
 $$1 - \beta \ge 0$$
 
-This statement isolates nothing and proves nothing, transforming the AI-generated läpimurto into an **ineffective symbolic illusion** designed to mask true mathematical divergence away from the critical axis.
+This statement isolates nothing and proves nothing, transforming the AI-generated breakthrough into an **ineffective symbolic illusion** designed to mask true mathematical divergence away from the critical axis.
